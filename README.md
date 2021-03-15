@@ -9,6 +9,8 @@
 
 </div>
 
+<span style="display:block;text-align:center"> ![](./Dataimage.PNG) </span>
+
 _by Florence Atienza, Hudson Potts, and Claudia Valenta on March 15, 2021_
 
 ## Motivation
