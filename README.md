@@ -3,6 +3,8 @@
 # <p align="center"> Memory and Cache-Friendly Algorithms </p>
 <p align="center"> Exploration of Avenues for Efficiency </p>
 
+<img style="float: right;" src="./Dataimage.PNG">
+
 <div style="text-align:center">
 
   ![](./Dataimage.PNG)
