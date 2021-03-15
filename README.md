@@ -3,6 +3,10 @@
 # <p align="center"> Memory and Cache-Friendly Algorithms </p>
 <p align="center"> Exploration of Avenues for Efficiency </p>
 
+<p align="center">
+  <img width="460" height="300" src="./Dataimage.PNG">
+</p>
+
 <img style="float: right;" src="./Dataimage.PNG">
 
 <div style="text-align:center">
