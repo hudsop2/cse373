@@ -8,6 +8,7 @@
   ![](./Dataimage.PNG)
 
 </div>
+
 _by Florence Atienza, Hudson Potts, and Claudia Valenta on March 15, 2021_
 
 ## Motivation
