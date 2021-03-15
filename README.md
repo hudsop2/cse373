@@ -1,7 +1,7 @@
-#### <p style="text-align: center;"> CSE 373 AA | Research Group 28 | Winter 2021 </p>
+#### <p align="center"> CSE 373 AA | Research Group 28 | Winter 2021 </p>
 ---
-# <p style="text-align: center;"> Memory and Cache-Friendly Algorithms </p>
-<p style="text-align: center;"> Exploration of Avenues for Efficiency </p>
+# <p align="center"> Memory and Cache-Friendly Algorithms </p>
+<p align="center"> Exploration of Avenues for Efficiency </p>
 
 ![](./Dataimage.PNG)
 _by Florence Atienza, Hudson Potts, and Claudia Valenta on March 15, 2021_
@@ -53,6 +53,6 @@ As society increasingly relies on data processing for more facets of life, it fo
 [![](./MemoLink.PNG)](https://docs.google.com/document/d/1NUS9imQQUQtTmBqse9ycLrZuYSjpR96MsEa41uCk1io/edit)
 
 ---
-<p style="text-align: center;">University of Washington </br>
+<p align="center">University of Washington </br>
 3800 E Stevens Way NE </br>
 Seattle, WA 98195</p>
