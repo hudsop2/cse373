@@ -2,8 +2,11 @@
 ---
 # <p align="center"> Memory and Cache-Friendly Algorithms </p>
 <p align="center"> Exploration of Avenues for Efficiency </p>
+<p align="center">
 
-![](./Dataimage.PNG)
+  ![](./Dataimage.PNG)
+   
+</p>
 _by Florence Atienza, Hudson Potts, and Claudia Valenta on March 15, 2021_
 
 ## Motivation
@@ -50,7 +53,11 @@ As society increasingly relies on data processing for more facets of life, it fo
 1. Skiena, Steven. “Suffix Trees & Arrays.” Stony Brook Algorithm Repository, www.algorist.com/problems/Suffix_Trees_and_Arrays.html.
 2. University of California, San Diego. “Advanced Data Structures: Suffix Arrays.” YouTube, uploaded by Niema Moshiri, 27 Apr. 2020, www.youtube.com/watch?v=IzMxbboPcqQ.
 
+<p align="center">
+
 [![](./MemoLink.PNG)](https://docs.google.com/document/d/1NUS9imQQUQtTmBqse9ycLrZuYSjpR96MsEa41uCk1io/edit)
+
+</p>
 
 ---
 <p align="center">University of Washington </br>
