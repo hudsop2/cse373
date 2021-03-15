@@ -3,7 +3,7 @@
 # <p style="text-align: center;"> Memory and Cache-Friendly Algorithms </p>
 <p style="text-align: center;"> Exploration of Avenues for Efficiency </p>
 
-![](./Dataimage.png)
+![](./DataImage.PNG)
 _by Florence Atienza, Hudson Potts, and Claudia Valenta on March 15, 2021_
 
 ## Motivation
@@ -20,13 +20,13 @@ Another thing we learned in this course, however, is the importance of balancing
 
 **_Suffix Arrays_**
 
-![](./SA1.png)
+![](./SA1.PNG)
 
 ![](./SA2.png)
 
-![](./SA3.png)
+![](./SA3.PNG)
 
-![](./SA4.png)
+![](./SA4.PNG)
 
 ## Analysis
 
@@ -38,8 +38,8 @@ Another thing we learned in this course, however, is the importance of balancing
 
 ## Learning Target
 
-![](./LT1.png)
-![](./LT2.png)
+![](./LT1.PNG)
+![](./LT2.PNG)
 
 ## Conclusion
 
@@ -50,7 +50,7 @@ As society increasingly relies on data processing for more facets of life, it fo
 1. Skiena, Steven. “Suffix Trees & Arrays.” Stony Brook Algorithm Repository, www.algorist.com/problems/Suffix_Trees_and_Arrays.html.
 2. University of California, San Diego. “Advanced Data Structures: Suffix Arrays.” YouTube, uploaded by Niema Moshiri, 27 Apr. 2020, www.youtube.com/watch?v=IzMxbboPcqQ.
 
-[![](./MemoLink.png)](https://docs.google.com/document/d/1NUS9imQQUQtTmBqse9ycLrZuYSjpR96MsEa41uCk1io/edit)
+[![](./MemoLink.PNG)](https://docs.google.com/document/d/1NUS9imQQUQtTmBqse9ycLrZuYSjpR96MsEa41uCk1io/edit)
 
 ---
 <p style="text-align: center;">University of Washington </br>
