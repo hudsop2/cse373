@@ -2,11 +2,12 @@
 ---
 # <p align="center"> Memory and Cache-Friendly Algorithms </p>
 <p align="center"> Exploration of Avenues for Efficiency </p>
-<p align="center">
+
+<div style="text-align:center">
 
   ![](./Dataimage.PNG)
-   
-</p>
+
+</div>
 _by Florence Atienza, Hudson Potts, and Claudia Valenta on March 15, 2021_
 
 ## Motivation
