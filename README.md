@@ -3,7 +3,7 @@
 # <p style="text-align: center;"> Memory and Cache-Friendly Algorithms </p>
 <p style="text-align: center;"> Exploration of Avenues for Efficiency </p>
 
-![](./DataImage.PNG)
+![](./Dataimage.PNG)
 _by Florence Atienza, Hudson Potts, and Claudia Valenta on March 15, 2021_
 
 ## Motivation
