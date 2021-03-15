@@ -7,16 +7,6 @@
   <img src="./Dataimage.PNG">
 </p>
 
-<img style="float: right;" src="./Dataimage.PNG">
-
-<div style="text-align:center">
-
-  ![](./Dataimage.PNG)
-
-</div>
-
-<span style="display:block;text-align:center"> ![](./Dataimage.PNG) </span>
-
 _by Florence Atienza, Hudson Potts, and Claudia Valenta on March 15, 2021_
 
 ## Motivation
@@ -33,13 +23,18 @@ Another thing we learned in this course, however, is the importance of balancing
 
 **_Suffix Arrays_**
 
-![](./SA1.PNG)
-
-![](./SA2.png)
-
-![](./SA3.PNG)
-
-![](./SA4.PNG)
+<p align="center">
+  <img src="./SA1.PNG">
+</p>
+<p align="center">
+  <img src="./SA2.png">
+</p>
+<p align="center">
+  <img src="./SA3.PNG">
+</p>
+<p align="center">
+  <img src="./SA4.PNG">
+</p>
 
 ## Analysis
 
@@ -51,8 +46,12 @@ Another thing we learned in this course, however, is the importance of balancing
 
 ## Learning Target
 
-![](./LT1.PNG)
-![](./LT2.PNG)
+<p align="center">
+  <img src="./LT1.PNG">
+</p>
+<p align="center">
+  <img src="./LT2.PNG">
+</p>
 
 ## Conclusion
 
@@ -64,9 +63,7 @@ As society increasingly relies on data processing for more facets of life, it fo
 2. University of California, San Diego. “Advanced Data Structures: Suffix Arrays.” YouTube, uploaded by Niema Moshiri, 27 Apr. 2020, www.youtube.com/watch?v=IzMxbboPcqQ.
 
 <p align="center">
-
-[![](./MemoLink.PNG)](https://docs.google.com/document/d/1NUS9imQQUQtTmBqse9ycLrZuYSjpR96MsEa41uCk1io/edit)
-
+  <img src="MemoLink.PNG">
 </p>
 
 ---
