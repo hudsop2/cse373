@@ -154,10 +154,12 @@ To find the worst case element, we would have to look through all the levels unt
 
 ## Conclusion
 
-As society increasingly relies on data processing for more facets of life, it follows that there exists a growing need for memory and - for that matter - memory efficiency. As a result, no matter what implementation is deemed optimal for a technology in development, it is important to approach the effort with a philosophy we learned in CSE 373: we must balance 1) the drive for more efficient systems with 2) an awareness of that technology’s repercussions to different communities. For more on this analysis on social responsibility relating to technology, see our memo linked below.
+As society increasingly relies on data processing for more facets of life, it follows that there exists a growing need for memory and - for that matter - memory efficiency. As a result, no matter what implementation is deemed optimal for a technology in development, it is important to approach the effort with a philosophy we learned in CSE 373: we must balance 1) the drive for more efficient systems with 2) an awareness of that technology’s repercussions to different communities. For more on this analysis on social responsibility relating to technology, see our memo linked below.  <br>
 
 <p align="center">
-  <img src="MemoLink.PNG">
+
+  [READ MORE IN OUR MEMO](https://docs.google.com/document/d/1NUS9imQQUQtTmBqse9ycLrZuYSjpR96MsEa41uCk1io/edit)
+  
 </p>
 
 ## Citations
